@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @simoniaj
-- 👀 I’m interested in HTML and CSS primarily, at least for now. I like to make websites for fun.
-- 🌱 I’m currently learning Cascading Style Sheets (CSS)
-- 💞️ I’m looking to collaborate on Python and Java projects. Are you the best? Can I learn from you?
-- 📫 How to reach me my email is simoniajnbaptiste@gmail.com and my linked in is https://www.linkedin.com/in/simonia-jn-baptiste-6541b415b/
+- 👋🏽 - I am currently a computer science student at University of the People. I am also the Support Team Lead at CodePath.org, a non-profit organization providing computer science, software engineering, and mobile app development courses for American university students that are underrepresented or simply interested. We also advocate for students seeking internship opportuinities. I am expecting to graduate with my Associates of Science in 2024 and go on to earn industry certifications. 
+
+- 💭 - I intend to focus on Ethical Hacking, Cybersecurity and Web Development. Thank you for coming to my profile. 
+- 📫 Feel free to connect. LinkedIn: https://www.linkedin.com/in/simonia-jn-baptiste-6541b415b/
 
 <!---
 simoniaj/simoniaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
